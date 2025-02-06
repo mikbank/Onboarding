@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Onboarding": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7204",
+      "launchBrowser": false
+    }
+  }
+}
